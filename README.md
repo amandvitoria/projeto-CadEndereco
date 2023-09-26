@@ -2,18 +2,6 @@
 ## 📝DESCRIÇÃO  
 Nesse projeto Cadendereco copiamos um codigo do bootstrap e alteramos algumas coisas como,
 tradução dos campos para o português, apagando colunas que não seriam utilizadas como email e senha, colocando input e forn-control no estado, mudando o cep de lugar colancando ele para o inicio e comitando tudo para o ghithub.
-## Índice
-Projeto - portifólio para escrita do README.
-
-descrição
-
-Funcionalidades
-
-Tecnologias Utilizadas
-
-Fontes consultadas
-
-Autores
 
 ## 📅 Projeto - 
 
@@ -23,12 +11,11 @@ nesse projeto ele é feito para cadastrar endereço, e com somente o CEP já con
 
  ## 🛠️ Tecnologias Utilizadas
 
-github
-
-
-README
-
-JS
+•`HTML`
+•`github`
+•`README`
+•`JS` 
+•[`BOOTSTRAP 5`](https://getbootstrap.com/docs/5.3/forms/layout/#gutters)
 
  ## ✒️ Autores
 •[<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847936?v=4" width=115><br><sub>Amanda Vitoria </sub>](https://github.com/amandvitoria)<br><br>
