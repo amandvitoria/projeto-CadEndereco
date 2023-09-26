@@ -3,7 +3,7 @@
 Nesse projeto Cadendereco copiamos um codigo do bootstrap e alteramos algumas coisas como,
 tradução dos campos para o português, apagando colunas que não seriam utilizadas como email e senha, colocando input e forn-control no estado, mudando o cep de lugar colancando ele para o inicio e comitando tudo para o ghithub.
 
-## 📅 Projeto - 
+## 👩‍💻 Projeto - 
 
  ## 🔧 Funcionalidades
 nesse projeto ele é feito para cadastrar endereço, e com somente o CEP já consegue descobrir seus dados
