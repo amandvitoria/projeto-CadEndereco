@@ -21,3 +21,10 @@ const preencheFormulario = (endereco) =>{
     document.getElementById('estado').value = endereco.uf;
 
 }
+
+/*função para consumo de API utilizando a função do tipo assimcrona*/
+
+const pesquisarcep = async() =>{
+    LimparFormulario();
+    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+}
