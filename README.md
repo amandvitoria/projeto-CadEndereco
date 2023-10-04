@@ -13,8 +13,10 @@ tradução dos campos para o português, apagando colunas que não seriam utiliz
 ## 👩‍💻 Projeto - 
 ✅CORRETO
 ![GIF](CEP/Gravando-2023-10-03-080921.gif)  
+
+
+![GIF](CEP/Gravando%202023-10-03%20082454ERRADO%20(1).gif)  
 ☑️ERRADO
-![GIF](CEP/Gravando%202023-10-03%20082454ERRADO%20(1).gif)
  ## 🔧 Funcionalidades
 nesse projeto ele é feito para cadastrar endereço, e com somente o CEP já consegue descobrir seus dados
 
